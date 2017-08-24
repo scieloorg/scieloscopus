@@ -51,7 +51,7 @@ scopusindicators.UPDATE_INDICATORS
 
 ## Badges
 [![Build Status](https://travis-ci.org/scieloorg/scieloscopus.svg?branch=master)](https://travis-ci.org/scieloorg/scieloscopus)
-[![PyPi version](https://img.shields.io/pypi/v/scielojcr.svg)](https://pypi.python.org/pypi/scielojcr)
+[![PyPi version](https://img.shields.io/pypi/v/scieloscopus.svg)](https://pypi.python.org/pypi/scieloscopus)
 [![Code Health](https://landscape.io/github/scieloorg/scieloscopus/master/landscape.svg?style=flat)](https://landscape.io/github/scieloorg/scieloscopus/master)
 
 
