@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-
 # scieloscopus
 Library to delivery Scopus and Scimago indicators of SciELO Journals.
 
@@ -56,7 +53,5 @@ scopusindicators.UPDATE_INDICATORS
 [![Build Status](https://travis-ci.org/scieloorg/scielojcr.svg?branch=master)](https://travis-ci.org/scieloorg/scielojcr)
 [![PyPi version](https://img.shields.io/pypi/v/scielojcr.svg)](https://pypi.python.org/pypi/scielojcr)
 [![Code Health](https://landscape.io/github/scieloorg/scielojcr/master/landscape.svg?style=flat)](https://landscape.io/github/scieloorg/scielojcr/master)
-=======
-# scieloscopus
-Library to delivery Scopus and Scimago indicators of SciELO Journals.
->>>>>>> d3b9fb76b50759840b5c77caba9a8d29baef6744
+
+
